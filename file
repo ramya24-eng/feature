@@ -5,4 +5,9 @@ warning: redirecting to https://github.com/ramya24-eng/feature.git/
 To https://www.github.com/ramya24-eng/feature.git
  ! [rejected]        master -> master (non-fast-forward)
 error: failed to push some refs to 'https://www.github.com/ramya24-eng/feature.git'
+ git pull origin master
+warning: redirecting to https://github.com/ramya24-eng/feature.git/
+From https://www.github.com/ramya24-eng/feature
+ * branch            master     -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
 

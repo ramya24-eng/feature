@@ -1,0 +1,1 @@
+ A branch in git is simply a lightweight movable pointer to one of these commits
